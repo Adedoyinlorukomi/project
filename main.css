@@ -58,8 +58,8 @@ and (max-width: 799px)
 {body
 
 {background-color: #ffffff; width: auto; height: 400px;}
-.section{text-align: end; word-spacing: 0.3cm; background-color: teal; padding: 10px 20px 10px 0;}
-#identify{padding-left: 30px; letter-spacing: 0.2mm;}
+.section{ word-spacing: 0.5cm; background-color: teal; padding: 10px 20px 10px 0;}
+#identify{padding-left: 30px; letter spacing: 0.2mm}
 
 .section1{ padding-top: 50px;}
 
